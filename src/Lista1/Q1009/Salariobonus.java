@@ -1,4 +1,4 @@
-package Lista.Q1009;
+package Lista1.Q1009;
 import java.util.Scanner;
 
 public class Salariobonus {

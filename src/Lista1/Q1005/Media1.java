@@ -1,4 +1,4 @@
-package Lista.Q1005;
+package Lista1.Q1005;
 import java.util.Scanner;
 import java.io.IOException;
 import java.util.Locale;

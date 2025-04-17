@@ -1,4 +1,4 @@
-package Lista.Q1012;
+package Lista1.Q1012;
 
 import java.util.Scanner;
 

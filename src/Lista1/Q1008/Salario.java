@@ -1,4 +1,4 @@
-package Lista.Q1008;
+package Lista1.Q1008;
 import java.util.Scanner;
 
 public class Salario {

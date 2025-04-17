@@ -1,4 +1,4 @@
-package Lista.Q1004;
+package Lista1.Q1004;
 
 import java.util.Scanner;
 import java.io.IOException;

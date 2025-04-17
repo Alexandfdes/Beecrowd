@@ -1,4 +1,4 @@
-package Lista.Q1006;
+package Lista1.Q1006;
 import java.util.Scanner;
 
 public class Media2 {
